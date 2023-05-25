@@ -50,9 +50,9 @@
 			<url>http://3.94.193.245:8081/repository/coit-backend-1-release/</url>
 		</repository>
 		<snapshotRepository>
-			<id>coit-backend-1-snapshot</id>
-			<name>coit-backend-1-snapshot</name>
-			<url>http://3.94.193.245:8081/repository/coit-backend-1-snapshot/</url>
+			<id>coit-backend-ranjani-snapshot</id>
+			<name>coit-backend-ranjani-snapshot</name>
+			<url>http://52.66.210.46:8081/repository/coit-backend-ranjani-snapshot/</url>
 		</snapshotRepository>
 	</distributionManagement>
 
