@@ -45,9 +45,9 @@
 	</build>
 	<distributionManagement>
 		<repository>
-			<id>coit-backend-1-release</id>
-			<name>coit-backend-1-release</name>
-			<url>http://3.94.193.245:8081/repository/coit-backend-1-release/</url>
+			<id>coit-backend1-ranjani-release</id>
+			<name>coit-backend1-ranjani-release</name>
+			<url>http://52.66.210.46:8081/repository/coit-backend1-ranjani-release/</url>
 		</repository>
 		<snapshotRepository>
 			<id>coit-backend-ranjani-snapshot</id>
